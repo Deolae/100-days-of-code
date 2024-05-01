@@ -1,0 +1,1 @@
+Guessing game for the U.S. States, if you're done with your guessing attempt, you can type "exit" in the input pop-up and that will create a new .csv file (States_To_Learn.csv) which will contain the names of the states you failed to guess for educational purposes
