@@ -34,7 +34,7 @@ if will_rain is True:
         .create(
         body="It's going to rain today, remember to bring an umbrella ☔"
              "\nOsama says hi :D",
-        from_='+12233361257',
-        to='+962788061862'
+        from_='+122xxxxxxx', # Add the phone number that's going to send the message
+        to='+962xxxxxxx' # Add the phone number that will have the message sent to
     )
     print(message.status)
